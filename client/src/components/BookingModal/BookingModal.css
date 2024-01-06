@@ -1,0 +1,16 @@
+.title-container{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -120%);
+    justify-content: center;
+
+}
+
+
+    
+.datebutton{
+    padding:  8px;
+    background-color: lightgray;
+
+}
