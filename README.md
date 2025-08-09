@@ -1,4 +1,15 @@
 # Homzy
+> An interactive full stack web that simplifies buying and selling homes with full features
+
+## Quick Look
+Home Page
+<img width="1894" height="932" alt="Screenshot 2025-08-09 122916" src="https://github.com/user-attachments/assets/2bc14a92-7aa7-4034-aaa6-97563840e489" />
+
+Searches
+
+<img width="1871" height="929" alt="image" src="https://github.com/user-attachments/assets/2520460c-5625-42da-8739-b9569d273d4c" />
+
+
 
 ## Overview
 
