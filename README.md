@@ -26,7 +26,17 @@ This is a real estate website that simplifies the process of buying and selling 
 
 ## Technologies Used
 
-- **Frontend**: React, Material-UI, CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Autehtication**: Auth0
+- **Frontend**: React, Material-UI, CSS  
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)  
+  ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?logo=material-ui&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
+
+- **Backend**: Node.js, Express.js  
+  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)  
+  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?logo=express&logoColor=white)
+
+- **Database**: MongoDB  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+
+- **Authentication**: Auth0  
+  ![Auth0](https://img.shields.io/badge/Auth0-%23000000.svg?logo=auth0&logoColor=white)
